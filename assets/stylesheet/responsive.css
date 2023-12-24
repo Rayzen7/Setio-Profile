@@ -150,6 +150,34 @@
     text-decoration: none;
     font-size: 25px;
   }
+  .article-img-holder-firstRow4 {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.7s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  .article-img-holder-firstRow5 {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.7s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+  }
   .article-img-holder-secondRow {
     width: 100%;
     height: 100%;
